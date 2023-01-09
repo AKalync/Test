@@ -1,0 +1,23 @@
+HTML Tags
+<html> tags indicate that anything between it and a closing </html> tag is HTML code
+<body> tag indicates that anything between it and the closing </body> tag should be shown inside the main browser window
+<head> before the <body> element you will often see a <head> element. This contains information about the page, rather than information that is shown on the page.
+Usually a <title> tag will be enclosed within the <head> element
+<title> The contents of the <title> element are shown in the top of the browser, or within the tab of the browser page
+
+Text Tags
+Headings
+<h1> to <h6> are used to denote headings within the browser, with <h1> being the largest and <h6> being the smallest
+Paragraphs
+<p> tag creates a paragraph and provides a bit of whitespace after the paragraph
+Bold & Italic
+<b> and <i> tags format text in bold or italic
+Superscript & Subscript
+<sup> and <sub> tags will format text in superscript or subscript styles
+Line Breaks and Horizontal Rules
+<br /> will create a line break within the middle of a pargraph. <hr /> will create a generic horizontal rule (line) on the page
+
+Semantic Markup
+These web elements are not intended to affect the structure of the webpage, but rather add extra information to the pages.
+Browsers will often recognize these elements and display the information in a different way. The reason for using elements is that other programs, such as screen readers or search engines, can use this extra information.
+
