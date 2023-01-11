@@ -20,4 +20,15 @@ Line Breaks and Horizontal Rules
 Semantic Markup
 These web elements are not intended to affect the structure of the webpage, but rather add extra information to the pages.
 Browsers will often recognize these elements and display the information in a different way. The reason for using elements is that other programs, such as screen readers or search engines, can use this extra information.
+<strong>
+<em>
+<block quote>
+<q>
+<abbr>
+<cite>
+<dfn>
+<address>
+<ins>
+<del>
+<s>
 
