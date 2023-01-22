@@ -1,0 +1,52 @@
+*{
+    box-sizing:border-box;
+    font-family:Arial;
+    color:#778;
+}
+
+html, body {
+    margin:0;
+    padding:0;
+}
+
+.nav ul{
+    margin:0;
+}
+
+.nav li{
+    display: inline;
+}
+
+.nav a{
+    padding: 0.5em;
+    color:white;
+    text-decoration:none;
+}
+
+.nav a:hover{
+    color: black;
+    opacity: .7;
+}
+
+.nav{
+    padding-top: 30px;
+}
+
+.logo {
+    padding-left: 30px;
+}
+.main-header {
+    background-color: rgba(0,0,0,.2);
+    background-image: url("Images/41-light-green-gradient.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+
+.main-footer {
+    background-color: rgba(0,0,0,.2);
+    background-image: url("Images/41-light-green-gradient.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+}
